@@ -1,6 +1,6 @@
-// Package devrestarter provides a hook to re-exec the process when the binary
-// is updated and is suitable for use during development. Essentially you run
-// successfully run `go install` and your server will restart.
+// Package devrestarter automatically restarts your server when it's updated.
+// This is suitable for use during development. When you recompile your server,
+// it will be restarted.
 package devrestarter
 
 import (

@@ -1,4 +1,4 @@
-devreloader
+devrestarter
 =====
 
-Documentation: https://godoc.org/github.com/facebookgo/devreloader
+Documentation: https://godoc.org/github.com/facebookgo/devrestarter
