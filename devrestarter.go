@@ -12,7 +12,7 @@ import (
 	"time"
 
 	"github.com/facebookgo/stackerr"
-	"github.com/go-fsnotify/fsnotify"
+	"github.com/fsnotify/fsnotify"
 )
 
 var debug func(v ...interface{})
